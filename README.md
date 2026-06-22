@@ -1,4 +1,4 @@
-# Hi there, I'm Lợi! 👋 (Hoặc tên của bạn)
+# Hi there, I'm Lợi! 👋 
 
 ### 🚀 About Me
 - 🎓 **Student:** Information Technology at **Bac Lieu University** (BLU)
