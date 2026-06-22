@@ -11,10 +11,9 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C`, `C++`, `C#`, `Python`, `PHP`, `JavaScript` |
-| **CS Fundamentals** | Operating Systems (CPU Scheduling, Memory Management), Algorithms |
-| **Special Interests** | Geographic Information Systems (GIS), Web Development |
-
+| **Languages** | `C`, `C++`, `C#`, `Python`, `PHP`, `JavaScript`, `SQL` |
+| **Databases** | `MySQL`, `Microsoft SQL Server`, `PostgreSQL` |
+| **Special Interests** | Database Design, Query Optimization, GIS & Spatial Data |
 ---
 
 ### 📊 GitHub Stats
