@@ -13,7 +13,7 @@
 | :--- | :--- |
 | **Languages** | `C`, `C++`, `C#`, `Python`, `PHP`, `JavaScript`, `SQL` |
 | **Databases** | `MySQL`, `Microsoft SQL Server`, `PostgreSQL` |
-| **Special Interests** | Database Design, Query Optimization, GIS & Spatial Data |
+| **Special Interests** | Database Design, Query Optimization |
 ---
 
 ### 📊 GitHub Stats
